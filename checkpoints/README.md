@@ -1,0 +1,2 @@
+Access the latest checkpoint model via this Google Drive link, featuring pre-trained weights for easy integration into our projects:
+[Pretrained Model](https://drive.google.com/drive/folders/1HfcjcFnm5JvpqEoIQTGpAxerbRGuv__7?usp=sharing)
